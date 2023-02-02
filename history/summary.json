@@ -16,25 +16,25 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-02": 24
+      "2023-02-02": 27
     }
   },
   {
-    "name": "3ae cn",
+    "name": "3ae",
     "url": "https://3ae.cn",
     "icon": "https://icons.duckduckgo.com/ip3/3ae.cn.ico",
-    "slug": "3ae-cn",
+    "slug": "3ae",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 469,
-    "timeWeek": 469,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "time": 559,
+    "timeDay": 559,
+    "timeWeek": 559,
+    "timeMonth": 559,
+    "timeYear": 559,
     "dailyMinutesDown": {}
   }
 ]

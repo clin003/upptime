@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: devbot check
     url: $SECRET_SITE_URL
-  - name: 3ae
+  - name: 3ae cn
     url: https://3ae.cn
 
 

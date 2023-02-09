@@ -4,19 +4,19 @@
     "url": "https://devbot.baicai.me/checkhealth",
     "icon": "https://icons.duckduckgo.com/ip3/devbot.baicai.me.ico",
     "slug": "devbot",
-    "status": "down",
-    "uptime": "89.48%",
-    "uptimeDay": "89.48%",
-    "uptimeWeek": "89.48%",
-    "uptimeMonth": "89.48%",
-    "uptimeYear": "89.48%",
-    "time": 4699,
-    "timeDay": 4699,
-    "timeWeek": 4699,
-    "timeMonth": 4699,
-    "timeYear": 4699,
+    "status": "up",
+    "uptime": "87.87%",
+    "uptimeDay": "87.87%",
+    "uptimeWeek": "87.87%",
+    "uptimeMonth": "87.87%",
+    "uptimeYear": "87.87%",
+    "time": 4746,
+    "timeDay": 4746,
+    "timeWeek": 4746,
+    "timeMonth": 4746,
+    "timeYear": 4746,
     "dailyMinutesDown": {
-      "2023-02-09": 51
+      "2023-02-09": 60
     }
   },
   {

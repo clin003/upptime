@@ -7,7 +7,7 @@ sites:
     url: https://devbot.baicai.me/checkhealth
   - name: 3ae
     url: https://3ae.cn
-  - name: openapic
+  - name: openapi
     url: http://openapi.lyhuilin.com/ping
 
 status-website:

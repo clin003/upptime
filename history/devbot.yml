@@ -1,7 +1,7 @@
 url: https://devbot.baicai.me/checkhealth
-status: up
-code: 200
-responseTime: 2628
-lastUpdated: 2023-02-26T14:11:03.671Z
+status: down
+code: 504
+responseTime: 10369
+lastUpdated: 2023-02-26T16:33:37.335Z
 startTime: Thu Feb 09 2023 06:39:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

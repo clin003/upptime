@@ -59,19 +59,19 @@
     "url": "http://openapi.lyhuilin.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/openapi.lyhuilin.com.ico",
     "slug": "openapi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 833,
-    "timeDay": 763,
-    "timeWeek": 833,
-    "timeMonth": 833,
-    "timeYear": 833,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 978,
+    "timeDay": 1233,
+    "timeWeek": 978,
+    "timeMonth": 978,
+    "timeYear": 978,
     "dailyMinutesDown": {
-      "2023-02-27": 0
+      "2023-02-27": 8
     }
   }
 ]
